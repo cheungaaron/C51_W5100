@@ -6,5 +6,5 @@ void swaptest(int a, int b)
     i = a;
     a = b;
     b = i;
-    printf("%d\n%d",a,b);
+    printf("%d\n%d\n",a,b);
 }
