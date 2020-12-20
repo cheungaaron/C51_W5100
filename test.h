@@ -1,5 +1,4 @@
-#include<stdio.h>
-#include"test.h"
+void swaptest(int a,int b);
 void swaptest(int a, int b)
 {
     int i;
