@@ -4,7 +4,7 @@
     *             本文件包括5个部分：
   *  	1. W5100初始化
   *  	2. W5100的Socket初始化
-  *  	3. Socket连接
+  *  	3. Socket连接.
   *  	  
   *  	   Socket设置为TCP客户端模式，则调用Socket_Connect()函数，
   *  	                                  每调用一次Socket_Connect(s)函数，产生一次连接，
